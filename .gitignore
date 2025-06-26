@@ -287,4 +287,4 @@ healthchecksdb
 *.jfm
 *.dbmdl
 *.dbproj.schemaview
-.github/
+# .github/
